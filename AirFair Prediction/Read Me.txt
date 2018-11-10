@@ -1,0 +1,26 @@
+Prerequisite :
+
+Python - 3.6 
+
+Anaconda (Jupyter Notebook)
+
+Python Libraries:
+
+Sklearn (pip install sklearn)
+
+Pandas (pip install pandas)
+
+Numpy (pip install numpy)
+
+Matplotlib (pip install Matplolib)
+
+seaborn (pip install sklearn)
+
+Algorithm's Used:
+
+Linear Regression
+
+Random Forest
+
+XGBoost
+
